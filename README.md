@@ -29,7 +29,7 @@ const jake = {
   askMeAbout: ["Spring Boot", "Java", "Liquid Glass"],
 };
 ```
-
+<!-- [BROKEN]
 <table>
   <tr>
     <td>
@@ -40,3 +40,4 @@ const jake = {
     </td>
   </tr>
 </table>
+-->
