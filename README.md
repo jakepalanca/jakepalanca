@@ -2,7 +2,7 @@
   
 # Hey, I'm [Jake Palanca](https://jakepalanca.com) 👋
 
-**Focusing on networking-focused Java development.**
+**Focusing on database management using Java, Spring and MySQL. I also build SwiftUI apps in my free time.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-JAKEPALANCA.COM-0a0a0a?style=for-the-badge)](https://jakepalanca.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JAKEPALANCA-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jakepalanca)
@@ -25,19 +25,7 @@
 ```javascript
 const jake = {
   education: "B.S. Computer Science @ University of Georgia",
-  currentFocus: "Building SwiftCast, a browser that intercepts HLS/DASH streams to cast any web video.",
+  currentFocus: "Building Cast, a browser that intercepts video streams to cast or Airplay any web video.",
   askMeAbout: ["Spring Boot", "Java", "Liquid Glass"],
 };
 ```
-<!-- [BROKEN]
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jakepalanca&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakepalanca&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
--->
