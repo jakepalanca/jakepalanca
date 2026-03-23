@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hey, I'm [Jake Palanca](https://jakepalanca.com) 👋
+# Hey, I'm [Jake Palanca](https://jakepalanca.com).
 
-**Focusing on database management using Java, Spring and MySQL. I also build SwiftUI apps in my free time.**
+**Focusing on database management using Java, Spring and MySQL. I also build SwiftUI apps.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-JAKEPALANCA.COM-0a0a0a?style=for-the-badge)](https://jakepalanca.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JAKEPALANCA-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jakepalanca)
